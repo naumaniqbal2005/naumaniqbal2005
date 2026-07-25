@@ -2,7 +2,7 @@
 
 🎓 BS Data Science Undergraduate @ FAST NUCES, Lahore  
 🤖 Machine Learning Student | AI Enthusiast  
-💻 Full-Stack Developer (Web Applications)  
+💻 Full-Stack Developer (Web/MobileApplications)
 🎨 UI/UX Designer
 
 ### 🚀 About Me
