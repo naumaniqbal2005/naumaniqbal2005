@@ -9,5 +9,5 @@
 I enjoy building end-to-end applications, combining clean UI design with solid backend architecture, authentication systems, and database integration. I’m currently focused on understanding how LLMS work and how could they be integrated in different projects while strengthening my full-stack development skills.
 
 ---
-Last updated: 2026-09-23 11:51 UTC
+Last updated: 2026-09-24 11:58 UTC
 
